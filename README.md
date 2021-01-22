@@ -4,4 +4,4 @@ This is a Colab notebook used to render paragraphs and whole stories of text as 
 
 [![A hallucinated animated of a.ttent.io/n](story2halluc.gif)](https://www.youtube.com/watch?v=9Y-UZquQDf0)
 
-For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/).
+For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/) and [this blog post](https://bonkerfield.org/2021/01/story2hallucination/).
