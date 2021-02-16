@@ -16,6 +16,8 @@ You can easily open the notebook in Google Colab here.
 
 For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/) and [this blog post](https://bonkerfield.org/2021/01/story2hallucination/).
 
+To render the story audio you can use Google's TTS API. More info [here](https://codelabs.developers.google.com/codelabs/cloud-text-speech-python3)
+
 Credits:
 Credit to [Phil Wang](https://github.com/lucidrains/) and [Ryan Murdock](https://rynmurdock.github.io/), and the makers of CLIP.
 
