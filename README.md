@@ -11,7 +11,7 @@ You can easily open the notebook in Google Colab here.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/drive/1yNkvkrHApFR6alyFC1EzhPGHs86yjH1P?usp=sharing>
+[colab-notebook]: <https://colab.research.google.com/drive/1cCo7z-HaoiUCqvPJJTjczmJl-_iWCcCl?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/) and [this blog post](https://bonkerfield.org/2021/01/story2hallucination/).
@@ -19,6 +19,6 @@ For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-
 To render the story audio you can use Google's TTS API. More info [here](https://codelabs.developers.google.com/codelabs/cloud-text-speech-python3)
 
 Credits:
-Credit to [Phil Wang](https://github.com/lucidrains/) and [Ryan Murdock](https://rynmurdock.github.io/), and the makers of CLIP.
+Credit to [Phil Wang](https://github.com/lucidrains/) and [Ryan Murdock](https://rynmurdock.github.io/) for making the Big Sleep, and [@HoverSquid](https://www.twitch.tv/hoversquid) for fixing up the notebook, adding features, and upgrading the BigSleep version Check out [@HoverSquid's Twitch Stream](https://www.twitch.tv/hoversquid) to see Story2Hallucination animate AI Dungeon games.
 
 
